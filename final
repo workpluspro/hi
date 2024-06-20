@@ -338,24 +338,24 @@
        {
       "id": 30,
       "name_add": "Addon Modern Furniture",
-      "addB_url": "https://minecraftmodsdl.com/Files/Addon2/&id=1853&lang=en B.mcaddon",
-      "addR_url": "https://minecraftmodsdl.com/Files/Addon2/&id=1853&lang=en R.mcaddon",
+      "addB_url": "https://minecraftmodsdl.com/Files/Addon1/76e-modern_house_6%20(1).mcworld",
+      "addR_url": "https://minecraftmodsdl.com/Files/Addon1/76e-modern_house_6%20(1).mcworld",
       "view_add": "https://mcpeland.io/uploads/posts/2024-02/mina_1-520x245.png",
       "des_add":  "https://mcpeland.io/uploads/posts/2024-02/mina_1-520x245.png"
     },
     {
       "id": 31,
       "name_add": "Addon Feudal Furniture",
-      "addB_url": "https://minecraftmodsdl.com/Files/Addon2/&id=1847&lang=en B.mcaddon",
-      "addR_url": "https://minecraftmodsdl.com/Files/Addon2/&id=1847&lang=en R.mcaddon",
+      "addB_url": "https://minecraftmodsdl.com/Files/Addon1/feudal-furniture-bp-3_5.mcpack",
+      "addR_url": "https://minecraftmodsdl.com/Files/Addon1/feudal-furniture-rp-3_5.mcpack",
       "view_add": "https://mcpeland.io/uploads/posts/2024-02/mismo1_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2024-02/mismo1_1-520x245.png"
     },
     {
       "id": 32,
       "name_add": "Addon Medieval Furniture v6",
-      "addB_url": "https://minecraftmodsdl.com/Files/Addon2/&id=1845&lang=en B.mcaddon",
-      "addR_url": "https://minecraftmodsdl.com/Files/Addon2/&id=1845&lang=en R.mcaddon",
+      "addB_url": "https://minecraftmodsdl.com/Files/Addon1/medieval_furniture_v6.mcaddon",
+      "addR_url": "https://minecraftmodsdl.com/Files/Addon1/medieval_furniture_v6.mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2024-02/1707263452075_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2024-02/1707263452075_1-520x245.png"
     },

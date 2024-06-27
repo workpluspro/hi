@@ -1,0 +1,130 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "Batman",
+      "skin_url": "https://aliendro.id/uploads/demo/premiummods/batman_skin.png",
+      "view_skin": "https://aliendro.id/uploads/demo/premiummods/batman_view.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "Captain Marvel",
+      "skin_url": "https://lh3.googleusercontent.com/OfCeIDybTytw5cqRZlaVfiiAMMS-i3WiiRveFS6dxdQoprJvqJEcYWf-mfbL9B2gCg6USEnrj2ANuhd79h3EeQ",
+      "view_skin": "https://lh3.googleusercontent.com/3iQQ-SEjTFADYrVQHTttXDGNvGALTSfJcwa6uGMJb75SXsqbE7kUmUpXl3iWtEdhYu3NYLjBH9tq_c8FahdLIw"
+    },
+    {
+      "id": 3,
+      "name_skin": "Ironman",
+      "skin_url": "https://lh3.googleusercontent.com/cw7kMNis22WSYQt3ald4CE0MGDIHEz6F117yi5siSfiADir_zYIsC6zT6K7rp2Zwn9aAXe841ULg_MUoAqpFWOM",
+      "view_skin": "https://lh3.googleusercontent.com/WRRFomiJcvyiCIAMZge6XfidYx8697Xq-dxs5MjP-APEoK0oVLXPUPNsBrhFYCJkDjPEQcj5kwUPibx7fGCbGgo"
+    },
+    {
+      "id": 4,
+      "name_skin": "Spiderman",
+      "skin_url": "https://lh3.googleusercontent.com/KAoenQJU0Xm6LdpnM3I4h1oeL6z_kQXxSGlE00ONC8t4RDPsY5wmfYZL1VaapuZbS4im69s5ufdiXOEE_EHy0pdbBEbx8EdEFsE",
+      "view_skin": "https://lh3.googleusercontent.com/spXRERF9KUQCud5iVhjFQzTnqQ-ttyZJQgzvF22yc_-MRLbPLDAv2jvQ2896XCmZiyYlmzMo8rCyhCdLOWQJRlA"
+    },
+    {
+      "id": 5,
+      "name_skin": "Deadpool",
+      "skin_url": "https://lh3.googleusercontent.com/Xy2u40iqg60XY_J9SGUAQWYvuRJVMEkDmJCzCLiCLWL0rIFbSYnTojyk60aZhDMJ62daSgUb4m90sgpRVZ4_",
+      "view_skin": "https://lh3.googleusercontent.com/SMkdgKEe6Rhx3X2_Qz_0BM1CqxhSGOIbCTCycr6SrdP_8kKl65nsOWfdsTypaso5lvPInfl9k_Cf5DNV9vPlRA"
+    },
+    {
+      "id": 6,
+      "name_skin": "Captain Amerika",
+      "skin_url": "https://lh3.googleusercontent.com/oda0Fu14lq4LT-L8aGh9bBpwrymZZrz7K9owAmJ8CF0YSkaLa55vuSNZi-KYTMtpZubyhsXhbCja4C71Wba1",
+      "view_skin": "https://lh3.googleusercontent.com/yrkmUYbYxfePyHx1NRe5bPEJhPM3sqllvimkNwjaaVAxqfO0v9W9e_dG5781J6Ylg7D8C5CZeS2rMVN3t8ft"
+    },
+    {
+      "id": 7,
+      "name_skin": "Wolverine",
+      "skin_url": "https://lh3.googleusercontent.com/ZfX6xK9-84eVmBlUhuq-V3jyQ3sRtXkMOle5VNL7clFTCVYjUQO2eGdO-D_Xf6r4mPTX_BEYN6bG4MANpIczGw",
+      "view_skin": "https://lh3.googleusercontent.com/uaJPGCy4OKO-l-kO31_bGPswxU8ChJPOUSjDGqE01F4Klla4xIOi7MzPdiLyeiWXTnYpDsKZy20RZknG5Sdo"
+    },
+    {
+      "id": 9,
+      "name_skin": "Thor",
+      "skin_url": "https://lh3.googleusercontent.com/BgJkkp9d5LPaNMdIQv8xbG_dF8Px6rB7_SUZdmcykrMRAYHNqJ1812ZWs3f7XxRZ24TPy15-_CPIumEiCR1G",
+      "view_skin": "https://lh3.googleusercontent.com/-Q0vRAjwg9-9D-Np5YS8hJSIcgs8BtIw9nw_BRbZpz3azgyPGAPS5EJpJDBAVzm4V-ot5mbUobyQJgyyxsh9WA"
+    },
+    {
+      "id": 10,
+      "name_skin": "Superman",
+      "skin_url": "https://lh3.googleusercontent.com/l1JqeAYBwvgznipUWLN3EA4q_W2ySXC7gZ1L86FymWPNFoWgQh9CAGNb_pGX6uqQfFeDuaMwJh2K2UkAQD8eBw",
+      "view_skin": "https://lh3.googleusercontent.com/7zmiS3wCq6Uszcg0O-NJRWAsepF47TT-lqujRgaf7NguiMUGTnl6iGeA6-h5-T458sddzA0WRH-iVM94u-U8"
+    },
+    {
+      "id": 11,
+      "name_skin": "One Pouch Man",
+      "skin_url": "https://lh3.googleusercontent.com/BlXcjXTOPxMgMrQ7SJWOtznAZlkGxDJZ8KceboZEB_AbwwLAau_zbZfQgeF3H8BMX_XSTLAgnmxdL75XDTM7X8s",
+      "view_skin": "https://lh3.googleusercontent.com/RxMgIk1iuWLIVveEBieyMkcQfpSq7HyQgeUBIgwyuySBcGbmAd796pjVhxvlD3K67-LdWKjSfZOKOrtrze8l"
+    },
+    {
+      "id": 12,
+      "name_skin": "Son Goku",
+      "skin_url": "https://lh3.googleusercontent.com/E7V0YcV9V0GP2fdr1gtCDmlPl00-zEvVPVkNdoYRMvnECblejwti7dXWGQJzh-ZAWOkw7BrUvHxONquFc6zbqg",
+      "view_skin": "https://lh3.googleusercontent.com/udrTngonhn0A-PxTDUMG3-jgzTF0Dj5ZBEj2c6v4BR-FAZpEnQKFQHbqkkQ7uAvQAPKGhbPfromeYJu7hnZ2"
+    }
+  ],
+  "Skin-Pack": [
+    {
+      "id": 1,
+      "name_skin": "The Connected Dream Skin Pack",
+      "skin_url": "https://aliendro.id/uploads/demo/premiummods/dream.mcpack",
+      "view_skin": "file:///android_asset/dream.png",
+      "des_skin": "file:///android_asset/dream.html"
+    }
+  ],
+  "Addons": [
+  ],
+  "Maps": [
+    {
+      "id": 1,
+      "name_map": "One Blocco 2023",
+      "view_map": "file:///android_asset/bloco.jpeg",
+      "map_url": "https://aliendro.id/uploads/demo/premiummods/One Blocco 2023.mcworld",
+      "des_map": "file:///android_asset/samplemaps.html"
+    },
+    {
+      "id": 2,
+      "name_map": "Raid Zombie",
+      "view_map": "https://aliendro.id/uploads/demo/premiummods/raid.jpeg",
+      "map_url": "https://aliendro.id/uploads/demo/premiummods/raid.mcworld",
+      "des_map": "https://aliendro.id/uploads/demo/premiummods/raid.html"
+    },
+    {
+      "id": 3,
+      "name_map": "Gullivers World Resort",
+      "view_map": "file:///android_asset/resort.jpg",
+      "map_url": "https://aliendro.id/uploads/demo/premiummods/resort.mcworld",
+      "des_map": "https://aliendro.id/uploads/demo/premiummods/resort.html"
+    }
+  ]
+}

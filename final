@@ -1,20 +1,20 @@
 {
-   "Ads": [
+  "Ads": [
     {
       "select_main_ads": "",
-      "select_backup_ads":"",
+      "select_backup_ads": "",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "open_ads_max":"",
+      "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives": "",
+      "backup_ads_natives": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_admob": "",
+      "open_ads_alien": "",
+      "open_ads_max": "",
       "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
@@ -22,7 +22,6 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://"
-    
     }
   ],
   "Skin": [
@@ -127,13 +126,13 @@
       "view_add": "https://mcpeland.io/uploads/posts/2024-05/nicos-cave-expansion_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2024-05/nicos-cave-expansion_1-520x245.png"
     },
-            {
+    {
       "id": 4,
       "name_add": "Addon Raiyons Java Combat",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon2/java_combat.mcaddon",
       "addR_url": "https://minecraftmodsdl.com/Files/Addon2/java_combat_cooldown.mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2023-11/20230619173941-1_1-520x245.png",
-      "des_add":  "https://mcpeland.io/uploads/posts/2023-11/20230619173941-1_1-520x245.png"
+      "des_add": "https://mcpeland.io/uploads/posts/2023-11/20230619173941-1_1-520x245.png"
     },
     {
       "id": 5,
@@ -175,13 +174,13 @@
       "view_add": "https://mcpeland.io/uploads/posts/2024-02/novo-projeto-27-125dc42_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2024-02/novo-projeto-27-125dc42_1-520x245.png"
     },
-            {
+    {
       "id": 10,
       "name_add": "Addon AG Morph Mobs",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon2/ags_morph_mobs.mcaddon",
       "addR_url": "https://minecraftmodsdl.com/Files/Addon2/ags_morph_mobs.mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2024-05/fererrere_1-520x245.png",
-      "des_add":  "https://mcpeland.io/uploads/posts/2024-05/fererrere_1-520x245.png"
+      "des_add": "https://mcpeland.io/uploads/posts/2024-05/fererrere_1-520x245.png"
     },
     {
       "id": 11,
@@ -199,13 +198,13 @@
       "view_add": "https://mcpeland.io/uploads/posts/2024-05/untitled26320240511100358_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2024-05/untitled26320240511100358_1-520x245.png"
     },
-            {
+    {
       "id": 13,
       "name_add": "Addon Gero Plants vs. Zombies",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon2/gpvza0_1_6.mcaddon",
       "addR_url": "https://minecraftmodsdl.com/Files/Addon2/gpvza0_1_6.mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2024-05/016short_1-520x245.png",
-      "des_add":  "https://mcpeland.io/uploads/posts/2024-05/016short_1-520x245.png"
+      "des_add": "https://mcpeland.io/uploads/posts/2024-05/016short_1-520x245.png"
     },
     {
       "id": 14,
@@ -223,13 +222,13 @@
       "view_add": "https://mcpeland.io/uploads/posts/2024-04/narutocraftv2541520x245_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2024-04/narutocraftv2541520x245_1-520x245.png"
     },
-       {
+    {
       "id": 16,
       "name_add": "Addon True Survival Zombie Apocalypse",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon2/true-survival.mcaddon",
       "addR_url": "https://minecraftmodsdl.com/Files/Addon2/true-survival-zombie-apocalypse-v14_2-sp.mcpack",
       "view_add": "https://mcpeland.io/uploads/posts/2024-01/v121_1-520x245.png",
-      "des_add":  "https://mcpeland.io/uploads/posts/2024-01/v121_1-520x245.png"
+      "des_add": "https://mcpeland.io/uploads/posts/2024-01/v121_1-520x245.png"
     },
     {
       "id": 17,
@@ -247,13 +246,13 @@
       "view_add": "https://mcpeland.io/uploads/posts/2024-04/erfef_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2024-04/erfef_1-520x245.png"
     },
-       {
+    {
       "id": 19,
       "name_add": "Addon Ghost Block",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon2/ghostblock_new.mcaddon",
       "addR_url": "https://minecraftmodsdl.com/Files/Addon2/ghostblock_new.mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2022-09/mcpedl_1-520x245.png",
-      "des_add":  "https://mcpeland.io/uploads/posts/2022-09/mcpedl_1-520x245.png"
+      "des_add": "https://mcpeland.io/uploads/posts/2022-09/mcpedl_1-520x245.png"
     },
     {
       "id": 20,
@@ -271,13 +270,13 @@
       "view_add": "https://mcpeland.io/uploads/posts/2024-04/screenshot-681_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2024-04/screenshot-681_1-520x245.png"
     },
-       {
+    {
       "id": 22,
       "name_add": "Addon My Little Pony",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/my-little-pony-add-on-v110.mcaddon",
       "addR_url": "https://minecraftmodsdl.com/Files/Addon3/my-little-pony-add-on-v110.mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2024-03/qfqhfybqu8i.jpg",
-      "des_add":  "https://mcpeland.io/uploads/posts/2024-03/qfqhfybqu8i.jpg"
+      "des_add": "https://mcpeland.io/uploads/posts/2024-03/qfqhfybqu8i.jpg"
     },
     {
       "id": 23,
@@ -287,13 +286,13 @@
       "view_add": "https://mcpeland.io/uploads/posts/2024-03/barbandchain_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2024-03/barbandchain_1-520x245.png"
     },
-       {
+    {
       "id": 24,
       "name_add": "Addon Hulk",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/hulk_mod_mcaddon.mcaddon",
       "addR_url": "https://minecraftmodsdl.com/Files/Addon3/hulk_mod_mcaddon.mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2024-03/c75633_527e6852e885420ca1e72fc0c2804481mv2.webp",
-      "des_add":  "https://mcpeland.io/uploads/posts/2024-03/c75633_527e6852e885420ca1e72fc0c2804481mv2.webp"
+      "des_add": "https://mcpeland.io/uploads/posts/2024-03/c75633_527e6852e885420ca1e72fc0c2804481mv2.webp"
     },
     {
       "id": 25,
@@ -303,13 +302,13 @@
       "view_add": "https://mcpeland.io/uploads/posts/2024-03/20230728154746_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2024-03/20230728154746_1-520x245.png"
     },
-       {
+    {
       "id": 26,
       "name_add": "Addon System Wyverns",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/system_wyv.mcaddon",
       "addR_url": "https://minecraftmodsdl.com/Files/Addon3/system_wyv.mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2024-03/1709754913_syswyvern_1-520x245.png",
-      "des_add":  "https://mcpeland.io/uploads/posts/2024-03/1709754913_syswyvern_1-520x245.png"
+      "des_add": "https://mcpeland.io/uploads/posts/2024-03/1709754913_syswyvern_1-520x245.png"
     },
     {
       "id": 27,
@@ -319,13 +318,13 @@
       "view_add": "https://mcpeland.io/uploads/posts/2024-03/picsart231025225826346_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2024-03/picsart231025225826346_1-520x245.png"
     },
-       {
+    {
       "id": 28,
       "name_add": "Addon Enderman Weapons",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/bossendermen.mcaddon",
       "addR_url": "https://minecraftmodsdl.com/Files/Addon3/bossendermen.mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2023-09/basemcpessssdl_1-520x245.png",
-      "des_add":  "https://mcpeland.io/uploads/posts/2023-09/basemcpessssdl_1-520x245.png"
+      "des_add": "https://mcpeland.io/uploads/posts/2023-09/basemcpessssdl_1-520x245.png"
     },
     {
       "id": 29,
@@ -335,13 +334,13 @@
       "view_add": "https://mcpeland.io/uploads/posts/2024-02/untitled1-7_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2024-02/untitled1-7_1-520x245.png"
     },
-       {
+    {
       "id": 30,
       "name_add": "Addon Modern Furniture",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon1/76e-modern_house_6%20(1).mcworld",
       "addR_url": "https://minecraftmodsdl.com/Files/Addon1/76e-modern_house_6%20(1).mcworld",
       "view_add": "https://mcpeland.io/uploads/posts/2024-02/mina_1-520x245.png",
-      "des_add":  "https://mcpeland.io/uploads/posts/2024-02/mina_1-520x245.png"
+      "des_add": "https://mcpeland.io/uploads/posts/2024-02/mina_1-520x245.png"
     },
     {
       "id": 31,
@@ -359,7 +358,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2024-02/1707263452075_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2024-02/1707263452075_1-520x245.png"
     },
-   {
+    {
       "id": 33,
       "name_add": "Addon Minecraft Legends Golems Reboot",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/mcl_golems_reboot.mcaddon",
@@ -367,7 +366,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2024-02/untitled4520240126195411_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2024-02/untitled4520240126195411_1-520x245.png"
     },
-   {
+    {
       "id": 34,
       "name_add": "Addon Master TNT",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/master_tnt.mcaddon",
@@ -375,7 +374,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2024-01/fdrer_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2024-01/fdrer_1-520x245.png"
     },
-   {
+    {
       "id": 35,
       "name_add": "Addon True Tools",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/true_tools.mcaddon",
@@ -383,7 +382,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2023-12/mcpedl.png",
       "des_add": "https://mcpeland.io/uploads/posts/2023-12/mcpedl.png"
     },
-   {
+    {
       "id": 36,
       "name_add": "Addon Instant Houses",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/instant-house.mcaddon",
@@ -391,15 +390,15 @@
       "view_add": "https://mcpeland.io/uploads/posts/2023-10/1673384458022_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2023-10/1673384458022_1-520x245.png"
     },
-   {
+    {
       "id": 37,
       "name_add": "Addon Lance Furniture",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/lancefurniture.mcaddon",
       "addR_url": "https://minecraftmodsdl.com/Files/Addon3/lancefurniture.mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2022-04/working-security-cameras-lance-furniture-beta_1-520x245.png",
-      "des_add":   "https://mcpeland.io/uploads/posts/2022-04/working-security-cameras-lance-furniture-beta_1-520x245.png"
+      "des_add": "https://mcpeland.io/uploads/posts/2022-04/working-security-cameras-lance-furniture-beta_1-520x245.png"
     },
-   {
+    {
       "id": 38,
       "name_add": "Addon Jeys Superheroes",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/jeysuperherov4_1.mcaddon",
@@ -407,7 +406,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2024-01/untitled5720231202114659_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2024-01/untitled5720231202114659_1-520x245.png"
     },
-   {
+    {
       "id": 39,
       "name_add": "Addon SpiderMan: Into The CraftingVerse",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon2/Addon3/el-sando-spider-man-nwh.mcaddon",
@@ -415,7 +414,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2022-07/sas_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2022-07/sas_1-520x245.png"
     },
-   {
+    {
       "id": 40,
       "name_add": "Addon Minecraft Spider-Man",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/el-sando-spider-man-nwh.mcaddon",
@@ -423,7 +422,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2022-03/picsart-photo-editor-mod1207095741_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2022-03/picsart-photo-editor-mod1207095741_1-520x245.png"
     },
-   {
+    {
       "id": 41,
       "name_add": "Addon ArathNido FNAF",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/fnaf-plus-add-on_1702049126050.mcaddon",
@@ -431,7 +430,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2023-11/fase-2_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2023-11/fase-2_1-520x245.png"
     },
-  {
+    {
       "id": 42,
       "name_add": "Addon Zombie Apocalypse",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/true-survival-zombie-apocalypse-v14_2-sp.mcpack",
@@ -439,7 +438,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2022-01/could-u-survive-apocalypse-2_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2022-01/could-u-survive-apocalypse-2_1-520x245.png"
     },
-  {
+    {
       "id": 43,
       "name_add": "Addon Cartoon Skibidi Toilet Models",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/skibidi-toilet.mcaddon",
@@ -447,7 +446,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2023-07/20230709165030_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2023-07/20230709165030_1-520x245.png"
     },
-  {
+    {
       "id": 44,
       "name_add": "Addon Minecraft Rainbow Friends",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/rainbow-v6.mcaddon",
@@ -455,7 +454,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2023-06/rainbowf_ag1.jpg",
       "des_add": "https://mcpeland.io/uploads/posts/2023-06/rainbowf_ag1.jpg"
     },
-  {
+    {
       "id": 45,
       "name_add": "Addon Stupidly OP Tools",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/stupidly_-op_tools.mcaddon",
@@ -463,7 +462,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2022-02/captsdfsdfsgure_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2022-02/captsdfsdfsgure_1-520x245.png"
     },
-   {
+    {
       "id": 46,
       "name_add": "Addon Nico Item Expansion",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/nicos-item-expansion-v1_9_10-server.mcaddon",
@@ -471,7 +470,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2024-05/nicos-item-expansion-v19_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2024-05/nicos-item-expansion-v19_1-520x245.png"
     },
-   {
+    {
       "id": 47,
       "name_add": "Addon Fnaf Plus",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/fnaf-plus-add-on_1702049126050.mcaddon",
@@ -479,7 +478,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2022-03/picsart-photo-editor-mod1207095741_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2022-03/picsart-photo-editor-mod1207095741_1-520x245.png"
     },
-   {
+    {
       "id": 48,
       "name_add": "Addon Araths Guns 2",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/araths_guns.mcaddon",
@@ -487,7 +486,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2023-12/2png_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2023-12/2png_1-520x245.png"
     },
-  {
+    {
       "id": 49,
       "name_add": "Addon ActualGuns 3D",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/actualguns_3d_1_6.mcaddon",
@@ -495,7 +494,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2023-12/picsart231127090121438_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2023-12/picsart231127090121438_1-520x245.png"
     },
-  {
+    {
       "id": 50,
       "name_add": "Addon Diving Tools",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/diving-tools-addon.mcaddon",
@@ -503,7 +502,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2023-09/banner3_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2023-09/banner3_1-520x245.png"
     },
-  {
+    {
       "id": 51,
       "name_add": "Addon Simple Vehicles",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/simple-vehicles-addon-3_3_0-the-speed-and-gas-3.mcaddon",
@@ -511,7 +510,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2023-11/screenshot-4451_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2023-11/screenshot-4451_1-520x245.png"
     },
-  {
+    {
       "id": 52,
       "name_add": "Addon The Amazing Digital Circus COJI",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/the-amazing-circus.mcaddon",
@@ -519,7 +518,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2023-11/viviffound587022826_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2023-11/viviffound587022826_1-520x245.png"
     },
-   {
+    {
       "id": 53,
       "name_add": "Addon SERP Lucky Blocks",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/lucky-blocks.mcaddon",
@@ -527,7 +526,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2022-02/picsart0206061153_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2022-02/picsart0206061153_1-520x245.png"
     },
-   {
+    {
       "id": 54,
       "name_add": "Addon JW Expansion - Dinosaur",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/jwexpansion.mcaddon",
@@ -535,7 +534,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2023-11/download-2-2_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2023-11/download-2-2_1-520x245.png"
     },
-   {
+    {
       "id": 55,
       "name_add": "Addon Skibidi Toilet vs Cameraman",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/cartoon-skibidi-toilet-characters-_16886648091031.mcaddon",
@@ -543,7 +542,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2023-08/fffffffffffff_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2023-08/fffffffffffff_1-520x245.png"
     },
-  {
+    {
       "id": 56,
       "name_add": "Addon Draconic Igniter Weapons",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/swords.mcaddon",
@@ -551,7 +550,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2023-11/efdwefew_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2023-11/efdwefew_1-520x245.png"
     },
-  {
+    {
       "id": 57,
       "name_add": "Addon Beyonds 3D Weapon",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/beyonds-weapon-3d.mcaddon",
@@ -559,7 +558,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2023-10/keyart_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2023-10/keyart_1-520x245.png"
     },
-  {
+    {
       "id": 58,
       "name_add": "Addon Iron Man",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/iron-man-add-on.mcaddon",
@@ -567,7 +566,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2023-10/iron-man-poster-mcpedl_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2023-10/iron-man-poster-mcpedl_1-520x245.png"
     },
-  {
+    {
       "id": 59,
       "name_add": "Addon Gravity Gun",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/gravity-gun-english-version.mcaddon",
@@ -575,7 +574,7 @@
       "view_add": "https://mcpeland.io/uploads/posts/2023-09/gg_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2023-09/gg_1-520x245.png"
     },
-  {
+    {
       "id": 60,
       "name_add": "Addon Ore Crops",
       "addB_url": "https://minecraftmodsdl.com/Files/Addon3/orecrops_v1.mcaddon",
